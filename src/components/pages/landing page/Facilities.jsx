@@ -9,8 +9,8 @@ export default function Facilities() {
           <path strokeLinecap="round" strokeLinejoin="round" d="M21.752 15.002A9.72 9.72 0 0 1 18 15.75c-5.385 0-9.75-4.365-9.75-9.75 0-1.33.266-2.597.748-3.752A9.753 9.753 0 0 0 3 11.25C3 16.635 7.365 21 12.75 21a9.753 9.753 0 0 0 9.002-5.998Z" />
         </svg>
       ),
-      title: "Rooms and Suites",
-      description: "Relax in elegantly designed rooms and suites offering modern comfort, luxury amenities, and scenic views."
+      title: "Premium Rooms and Suites",
+      description: "Elegantly designed accommodations with modern comforts, premium bedding, and thoughtful amenities for a restful stay."
     },
     {
        id: 2,
@@ -19,8 +19,8 @@ export default function Facilities() {
           <path strokeLinecap="round" strokeLinejoin="round" d="M12 6v6h4.5m4.5 0a9 9 0 1 1-18 0 9 9 0 0 1 18 0Z" />
         </svg>
        ),
-       title: "24-Hour Security",
-       description: "Enjoy peace of mind with our 24-hour security ensuring your safety and comfort throughout your stay."
+       title: "Round-the-Clock Service",
+       description: "Our dedicated team is available 24/7 to ensure your comfort, safety, and any special requests are promptly attended to."
     },
     {
       id: 3,
@@ -29,8 +29,8 @@ export default function Facilities() {
           <path strokeLinecap="round" strokeLinejoin="round" d="M3.75 6.75h16.5M3.75 12h16.5m-16.5 5.25h16.5" />
         </svg>
       ),
-      title: "Fitness Center",
-      description: "Stay active during your trip with our modern fitness center equipped with premium equipment.",
+      title: "Modern Fitness Center",
+      description: "Maintain your wellness routine with our well-equipped fitness facility featuring cardio and strength training equipment.",
       highlight: true
     },
     {
@@ -40,8 +40,8 @@ export default function Facilities() {
           <path strokeLinecap="round" strokeLinejoin="round" d="M20.25 7.5l-.625 10.632a2.25 2.25 0 0 1-2.247 2.118H6.622a2.25 2.25 0 0 1-2.247-2.118L3.75 7.5M10 11.25h4M3.375 7.5h17.25c.621 0 1.125-.504 1.125-1.125v-1.5c0-.621-.504-1.125-1.125-1.125H3.375c-.621 0-1.125.504-1.125 1.125v1.5c0 .621.504 1.125 1.125 1.125Z" />
         </svg>
       ),
-      title: "Swimming Pool",
-      description: "Relax and unwind in our crystal-clear swimming pool, perfect for leisure, fun, and relaxation."
+      title: "Swimming Pool & Relaxation",
+      description: "Unwind by our well-maintained pool, perfect for leisure swims or relaxing with family after a busy day."
     }
   ]
 
@@ -78,10 +78,10 @@ export default function Facilities() {
               <span className="w-12 h-[1px] bg-gold-500"></span>
             </div>
             <h2 className="text-4xl md:text-5xl font-serif font-bold mb-6 loading-tight">
-              Discover Our Exceptional Hotel Facilities
+              Designed for Your Comfort and Convenience
             </h2>
             <p className="text-gray-400 mb-8 leading-relaxed">
-              We provide unmatched comfort, personalized service, and that make every guest feel truly special.
+              From state-of-the-art business facilities to relaxation spaces, every amenity at Patil Hotels is crafted to enhance your stay in Nagpur.
             </p>
             <motion.button 
               whileHover={{ scale: 1.05, backgroundColor: "#b08d65" }} // gold-600

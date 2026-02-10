@@ -85,7 +85,7 @@ export default function Contact() {
                 <div>
                    <h2 className="text-4xl font-serif text-dark-900 mb-6 font-bold">Information</h2>
                    <p className="text-gray-600 leading-relaxed mb-8">
-                       Our dedicated team is available 24/7 to ensure your stay is perfect. Feel free to contact us via phone, email, or by visiting us at our location.
+                       Whether you're planning a stay in Nagpur or need assistance with reservations and events, our team is here to help you 24/7.
                    </p>
                 </div>
 
@@ -99,7 +99,7 @@ export default function Contact() {
                         </div>
                         <div>
                             <h3 className="text-xl font-bold text-dark-900 mb-1">Address</h3>
-                            <p className="text-gray-600">123 Luxury Avenue,<br />Paris, France 75001</p>
+                            <p className="text-gray-600">Nagpur, Maharashtra<br />India</p>
                         </div>
                     </div>
 
@@ -111,8 +111,8 @@ export default function Contact() {
                         </div>
                         <div>
                             <h3 className="text-xl font-bold text-dark-900 mb-1">Phone</h3>
-                            <p className="text-gray-600">+33 1 23 45 67 89</p>
-                            <p className="text-gray-500 text-sm">Mon - Fri, 8am - 6pm</p>
+                            <p className="text-gray-600">+91 7709244142</p>
+                            <p className="text-gray-500 text-sm">Available 24/7</p>
                         </div>
                     </div>
 
@@ -124,8 +124,8 @@ export default function Contact() {
                         </div>
                         <div>
                             <h3 className="text-xl font-bold text-dark-900 mb-1">Email</h3>
-                            <p className="text-gray-600">reservations@PATILhotels.com</p>
-                            <p className="text-gray-600">info@PATILhotels.com</p>
+                            <p className="text-gray-600">info@patilhotels.in</p>
+                            <p className="text-gray-600">reservations@patilhotels.in</p>
                         </div>
                     </div>
                 </div>
@@ -220,8 +220,8 @@ export default function Contact() {
           <div className="absolute inset-0 flex items-center justify-center text-gray-500">
              {/* This would be a real map iframe in production */}
              <div className="text-center">
-                 <p className="text-xl font-bold mb-2">Google Map Integration</p>
-                 <p>123 Luxury Avenue, Paris, France</p>
+                 <p className="text-xl font-bold mb-2">Visit Us in Nagpur</p>
+                 <p>Nagpur, Maharashtra, India</p>
                  <a 
                     href="https://maps.google.com" 
                     target="_blank" 

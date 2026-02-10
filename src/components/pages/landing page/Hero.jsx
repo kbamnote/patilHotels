@@ -47,7 +47,7 @@ export default function Hero() {
           transition={{ duration: 0.8, delay: 1.1 }}
           className="text-lg font-light max-w-2xl mx-auto mb-12"
         >
-          Experience world-class hospitality where luxury, comfort, and elegance come together for an unforgettable hotel stay.
+          Nagpur's finest address for luxury stays, business travel, and cherished moments. Where modern elegance meets warm hospitality.
         </motion.p>
         
         {/* Floating Card */}
@@ -105,7 +105,7 @@ export default function Hero() {
             className="p-2 w-full md:w-auto"
           >
             <button className="w-full md:w-auto bg-white text-dark-900 px-8 py-3 rounded-full font-bold uppercase text-sm tracking-widest hover:bg-gold-500 hover:text-white transition shadow-lg">
-              Check Now
+              Check Availability
             </button>
           </motion.div>
         </div>

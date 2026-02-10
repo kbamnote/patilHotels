@@ -29,9 +29,9 @@ export default function About() {
             >
               <div>
                 <div className="text-6xl font-serif text-dark-900 mb-2">
-                  75<span className="text-4xl align-top text-gold-600">%</span>
+                  10<span className="text-4xl align-top text-gold-600">+</span>
                 </div>
-                <p className="text-gray-500 font-medium tracking-wide">Our guests are repeat visitors</p>
+                <p className="text-gray-500 font-medium tracking-wide">Years serving Nagpur</p>
               </div>
               <div className="text-gold-600">
                  <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1} stroke="currentColor" className="w-10 h-10">
@@ -63,7 +63,7 @@ export default function About() {
                  viewport={{ amount: 0.3 }}
                  className="text-4xl lg:text-5xl font-serif font-bold text-dark-900 text-center mb-6 leading-tight"
                >
-                  Experience a world of refined comfort timeless elegance, where hospitality every guest.
+                  Where Comfort Meets Elegance in the Heart of Nagpur
                </motion.h2>
 
                <motion.p 
@@ -73,7 +73,7 @@ export default function About() {
                  viewport={{ amount: 0.3 }}
                  className="text-gray-600 text-center mb-8 leading-relaxed px-4"
                >
-                  Experience world-class hospitality where luxury, comfort, the perfect blend of modern luxury and warm hospitality. Our hotel offers elegant rooms,
+                  At Patil Hotels, we blend modern luxury with the warmth of Indian hospitality. Our elegant accommodations, thoughtful amenities, and personalized service create memorable experiences for business travelers, families, and guests celebrating life's special moments.
                </motion.p>
                
                <motion.div 
@@ -104,9 +104,9 @@ export default function About() {
             >
                <div>
                 <div className="text-6xl font-serif text-dark-900 mb-2">
-                  40<span className="text-4xl align-top text-gold-600">%</span>
+                  24<span className="text-4xl align-top text-gold-600">/7</span>
                 </div>
-                <p className="text-gray-500 font-medium tracking-wide">Awards and recognitions</p>
+                <p className="text-gray-500 font-medium tracking-wide">Guest services available</p>
               </div>
               <div className="text-gold-600">
                 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1} stroke="currentColor" className="w-10 h-10">

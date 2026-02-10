@@ -38,7 +38,7 @@ export default function Offers() {
             viewport={{ amount: 0.3 }}
             className="mt-8 lg:mt-0 max-w-md text-right"
           >
-             <p className="text-gray-600 mb-6">Experience world-class hospitality where luxury, comfort, unforgettable perfect hotel stay.</p>
+             <p className="text-gray-600 mb-6">Discover our specially curated packages designed for families, business travelers, and celebrations in Nagpur.</p>
              <motion.button 
                 whileHover={{ scale: 1.05, backgroundColor: "#b08d65" }}
                 whileTap={{ scale: 0.95 }}
@@ -61,28 +61,29 @@ export default function Offers() {
               viewport={{ amount: 0.3 }}
               className="group cursor-pointer"
             >
-              <h3 className="text-3xl font-serif font-bold text-dark-900 mb-6">Family Fun Package</h3>
+              <h3 className="text-3xl font-serif font-bold text-dark-900 mb-6">Weekend Family Getaway</h3>
               <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
                 <div className="flex items-center space-x-2 text-gray-600">
                   <span className="text-gold-600">✓</span>
-                  <span>A two-night stay in a room</span>
+                  <span>Two nights accommodation</span>
                 </div>
                 <div className="flex items-center space-x-2 text-gray-600">
                    <span className="text-gold-600">✓</span>
-                   <span>Daily spa treatments</span>
+                   <span>Complimentary breakfast</span>
                 </div>
                  <div className="flex items-center space-x-2 text-gray-600">
                    <span className="text-gold-600">✓</span>
-                   <span>Healthy breakfast and lunch</span>
+                   <span>Welcome drinks on arrival</span>
                 </div>
                  <div className="flex items-center space-x-2 text-gray-600">
                    <span className="text-gold-600">✓</span>
-                   <span>Access to all spa facilities</span>
+                   <span>Free Wi-Fi and parking</span>
                 </div>
               </div>
               <div className="flex items-baseline space-x-4">
-                <span className="text-gray-400 line-through text-xl">$79.00</span>
-                <span className="text-gold-600 text-3xl font-serif font-bold">$49.00</span>
+                <span className="text-gray-400 line-through text-xl">₹8,999</span>
+                <span className="text-gold-600 text-3xl font-serif font-bold">₹6,499</span>
+                <span className="text-gray-500 text-sm">per night</span>
               </div>
             </motion.div>
 
@@ -94,7 +95,7 @@ export default function Offers() {
               viewport={{ amount: 0.3 }}
               className="group cursor-pointer opacity-60 hover:opacity-100 transition"
             >
-              <h3 className="text-3xl font-serif text-gray-400 group-hover:text-dark-900 transition font-medium">Spa Retreat</h3>
+              <h3 className="text-3xl font-serif text-gray-400 group-hover:text-dark-900 transition font-medium">Business Traveler Package</h3>
             </motion.div>
 
             {/* Offer 3 - Collapsed */}
@@ -105,7 +106,7 @@ export default function Offers() {
               viewport={{ amount: 0.3 }}
               className="group cursor-pointer opacity-60 hover:opacity-100 transition"
             >
-              <h3 className="text-3xl font-serif text-gray-400 group-hover:text-dark-900 transition font-medium">Romantic Getaway</h3>
+              <h3 className="text-3xl font-serif text-gray-400 group-hover:text-dark-900 transition font-medium">Wedding & Events</h3>
             </motion.div>
              
              {/* Offer 4 - Collapsed */}
@@ -116,7 +117,7 @@ export default function Offers() {
               viewport={{ amount: 0.3 }}
               className="group cursor-pointer opacity-60 hover:opacity-100 transition"
             >
-              <h3 className="text-3xl font-serif text-gray-400 group-hover:text-dark-900 transition font-medium">Signature Suite</h3>
+              <h3 className="text-3xl font-serif text-gray-400 group-hover:text-dark-900 transition font-medium">Extended Stay Offer</h3>
             </motion.div>
           </div>
 

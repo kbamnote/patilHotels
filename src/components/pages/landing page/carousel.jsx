@@ -110,7 +110,7 @@ export default function RoomsCarousel() {
                     viewport={{ amount: 0.3 }}
                     className="text-gray-600 max-w-2xl mx-auto mb-10 leading-relaxed"
                 >
-                    Experience the perfect blend of comfort, luxury, and style in beautifully designed rooms made for ultimate relaxation and peace.
+                    Thoughtfully designed spaces where comfort meets style. Each room at Patil Hotels offers a peaceful retreat with modern amenities and attentive service.
                 </motion.p>
 
                 <motion.button 

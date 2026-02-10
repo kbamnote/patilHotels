@@ -9,7 +9,7 @@ export default function Footer() {
           <div>
             <div className="text-2xl font-serif font-bold tracking-wider mb-6">PATIL HOTELS</div>
             <p className="text-gray-400 leading-relaxed mb-6">
-              Experience the pinnacle of luxury and hospitality. Your perfect getaway awaits.
+              Nagpur's premier destination for refined stays, memorable celebrations, and exceptional hospitality.
             </p> 
             <div className="flex space-x-4">
               <a href="#" className="w-10 h-10 rounded-full bg-white/10 flex items-center justify-center hover:bg-gold-500 hover:text-white transition duration-300">
@@ -42,9 +42,9 @@ export default function Footer() {
           <div>
             <h4 className="text-lg font-bold mb-6 text-gold-500 uppercase tracking-widest text-xs">Contact Us</h4>
              <ul className="space-y-4 text-gray-300">
-              <li>123 Luxury Avenue, Paradise City</li>
-              <li>+1 (555) 123-4567</li>
-              <li>info@PATILhotels.com</li>
+              <li>Nagpur, Maharashtra</li>
+              <li>+91 7709244142</li>
+              <li>info@patilhotels.in</li>
             </ul>
           </div>
 
