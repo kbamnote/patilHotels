@@ -1,0 +1,30 @@
+@import "tailwindcss";
+
+@theme {
+  --font-serif: "Playfair Display", serif;
+  --font-sans: "Lato", sans-serif;
+  
+  --color-gold-50: #fbf7f1;
+  --color-gold-100: #f5efe6;
+  --color-gold-200: #eadbc9;
+  --color-gold-300: #dec0a3;
+  --color-gold-400: #cfaa7f;
+  --color-gold-500: #c5a47e;
+  --color-gold-600: #b08d65;
+  --color-gold-700: #947150;
+  --color-gold-800: #7a5c44;
+  --color-gold-900: #634b39;
+
+  --color-dark-900: #0f172a; /* Slate 900 approx or custom dark */
+  --color-wood: #3e3228;
+}
+
+html, body {
+  font-family: var(--font-sans);
+  color: var(--color-dark-900);
+  overflow-x: hidden;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-serif);
+}
